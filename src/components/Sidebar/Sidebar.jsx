@@ -1,5 +1,4 @@
-import { Avatar, Box, Flex, Image, Tooltip, VStack } from "@chakra-ui/react";
-import React from "react";
+import { Avatar, Box, Flex, Tooltip } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 import {
   CreatePostLogo,
